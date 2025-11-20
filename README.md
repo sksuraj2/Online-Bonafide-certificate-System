@@ -1,4 +1,4 @@
-# Bonafide Certificate System
+# Online Bonafide Certificate System
 
 A web-based system for managing bonafide certificate applications for educational institutions.
 
@@ -38,7 +38,7 @@ A web-based system for managing bonafide certificate applications for educationa
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/bonafide-certificate-system.git
+   git clone https://github.com/sksuraj2/Online-Bonafide-certificate-System.git
    ```
 
 2. **Move to XAMPP htdocs**
@@ -130,7 +130,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 👨‍💻 Author
 
-Your Name
+sksuraj2
 
 ## 🤝 Contributing
 
@@ -138,7 +138,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📞 Support
 
-For support, email your.email@example.com
+For support, create an issue on GitHub.
 
 ---
 
