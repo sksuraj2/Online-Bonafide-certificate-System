@@ -2,6 +2,12 @@
 
 A web-based system for managing bonafide certificate applications for educational institutions.
 
+## 📖 Documentation
+
+- **[Quick Start Guide](QUICKSTART.md)** - Fast track to get running in minutes
+- **[Full Installation Guide](#-installation)** - Detailed setup instructions below
+- **[Troubleshooting](#-troubleshooting)** - Common issues and solutions
+
 ## 🎓 Features
 
 ### Student Portal
@@ -36,7 +42,9 @@ A web-based system for managing bonafide certificate applications for educationa
 
 ## 🚀 Installation
 
-### Quick Start Guide
+> **⚡ Quick Start:** For a faster setup, see [QUICKSTART.md](QUICKSTART.md)
+
+### Detailed Installation Guide
 
 1. **Clone the repository**
    ```bash
