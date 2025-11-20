@@ -1,0 +1,20 @@
+# Database configuration (sensitive)
+config/database.php
+
+# Uploads folder (user generated content)
+uploads/*
+!uploads/.gitkeep
+
+# PHP temp files
+*.log
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
